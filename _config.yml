@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Ben Booker"
-resume_title:                   "Web Content Specialist"
+resume_title:                   "Web Specialist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "bbooker5@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Oak Ridge, TN"
 resume_header_contact_info:     "Oak Ridge, Tennessee • 865-221-6154 • bbooker5@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm responsible for managing and enhancing online web content. I have a background in IT, sales and customer service.</p>"
+resume_header_intro: "<p>I'm responsible for managing and enhancing online web content, including:<ul><li>Product Marketing Pages</li><li>Technical Support Documentation</li><li>Visual Elements</li><li>Search Engine Optimization</li></ul>.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
