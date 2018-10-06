@@ -1,8 +1,7 @@
-title: "Title of the project goes here"
-description: "Subtitle/description which comes after title goes here"
-show_downloads: true # displays download button on the .io page
-
-## TESTING!
+title: TestTitle
+description: testdescription/ some more description
+# Test 1!
+## Test 2!
 
 
 
