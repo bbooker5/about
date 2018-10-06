@@ -1,6 +1,6 @@
 # Site settings
-title: "Ben Booker | Web Content Specialist"
-description: "Welcome!"
+title:  "Ben Booker | Web Content Specialist"
+description:    "Welcome!"
 
 # Build settings
 markdown: kramdown
