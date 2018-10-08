@@ -1,4 +1,12 @@
 # Degree
+- degree: Certificate, Mobile Web Design
+  uni: Pellissippi State College
+  year: 2015
+  awards:
+    - award: HTML, CSS, Javascript
+    - award: Responsibe Web Design
+ # summary: You can choose to have either a single or multiple awards
+
 - degree: Associates, Computer Information Systems
   uni: Ivy Tech State College
   year: 2008
@@ -7,9 +15,16 @@
     - award: Computer Repair
  # summary: You can choose to have either a single or multiple awards
 
-
 - degree: High School Diploma
   uni: Wayne High School
   year: 2004
 # award: Most likely to succeed
 # summary: You can choose to have either a single or multiple awards
+
+- degree: Certificate, Computer Networking
+  uni: Anthis Career Center
+  year: 2004
+
+- degree: Certificate, Computer Repair
+  uni: Anthis Career Center
+  year: 2003
