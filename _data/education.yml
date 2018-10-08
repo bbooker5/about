@@ -15,16 +15,14 @@
     - award: Computer Repair
  # summary: You can choose to have either a single or multiple awards
 
+- degree: Certificate of Achievement
+  uni: Anthis Career Center
+  year: 2004
+    - award: Computer Networking
+    - award: Computer Repair
+    
 - degree: High School Diploma
   uni: Wayne High School
   year: 2004
 # award: Most likely to succeed
 # summary: You can choose to have either a single or multiple awards
-
-- degree: Certificate, Computer Networking
-  uni: Anthis Career Center
-  year: 2004
-
-- degree: Certificate, Computer Repair
-  uni: Anthis Career Center
-  year: 2003
