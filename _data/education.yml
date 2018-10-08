@@ -18,9 +18,10 @@
 - degree: Certificate of Achievement
   uni: Anthis Career Center
   year: 2004
+  awards:
     - award: Computer Networking
     - award: Computer Repair
-    
+
 - degree: High School Diploma
   uni: Wayne High School
   year: 2004
