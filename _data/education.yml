@@ -10,7 +10,13 @@
 - degree: Associates, Computer Information Systems
   uni: Ivy Tech State College, Fort Wayne, IN
   year: 2008
+  awards:
+    - award: A+ Computer Repair
+    - award: Cisco Computer Networking
+    - award: Microsoft Active Directory
+    - award: Microsoft Exchange
   summary: Gained practical experience in computer networking -- including servers, routers, switches, wiring -- as well as database applications and the Microsoft Active Directory environment.
+
 
 - degree: High School Diploma
   uni: Wayne High School, Fort Wayne, IN
@@ -19,5 +25,6 @@
 - degree: Certificate of Achievement
   uni: Anthis Career Center, Fort Wayne, IN
   year: 2003, 2004
-    - award: Cisco Computer Networking
+  awards:
     - award: A+ Computer Repair
+    - award: Cisco Computer Networking
