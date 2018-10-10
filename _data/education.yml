@@ -19,8 +19,8 @@
   uni: Wayne High Schoo, Fort Wayne, IN
   year: 2004
 
-- degree: Certificate, Computer Networking
+- degree: Certificate, Computer Networking &bull; 2004<br />Certificate, Computer Repair &bull; 2004
   uni: Anthis Career Center, Fort Wayne, IN
-  year: 2004
-- degree: Certificate, Computer Repair
-  year: 2003
+#  year: 2004
+#- degree: Certificate, Computer Repair
+#  year: 2003
