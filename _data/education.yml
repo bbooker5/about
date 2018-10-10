@@ -1,6 +1,6 @@
 # Degree
 - degree: Certificate, Mobile Web Design
-  uni: Pellissippi State College &bull; Knoxville, TN
+  uni: Pellissippi State College, Knoxville, TN
   year: 2015
   awards:
     - award: HTML, CSS, Javascript
@@ -8,7 +8,7 @@
  # summary: You can choose to have either a single or multiple awards
 
 - degree: Associates, Computer Information Systems
-  uni: Ivy Tech State College &bull; Fort Wayne, IN
+  uni: Ivy Tech State College, Fort Wayne, IN
   year: 2008
   awards:
     - award: Computer Networking
@@ -16,11 +16,11 @@
  # summary: You can choose to have either a single or multiple awards
 
 - degree: High School Diploma
-  uni: Wayne High School &bull; Fort Wayne, IN
+  uni: Wayne High Schoo, Fort Wayne, IN
   year: 2004
 
 - degree: Certificate, Computer Networking
-  uni: Anthis Career Center &bull; Fort Wayne, IN
+  uni: Anthis Career Center, Fort Wayne, IN
   year: 2004
 - degree: Certificate, Computer Repair
   year: 2003
