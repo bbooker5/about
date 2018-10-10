@@ -5,22 +5,19 @@
   awards:
     - award: HTML, CSS, Javascript
     - award: Responsibe Web Design
- # summary: You can choose to have either a single or multiple awards
+  summary: Learned the basics of web development, with a focus on designing responsive websites for desktops, tablets, and mobile devices.
 
 - degree: Associates, Computer Information Systems
   uni: Ivy Tech State College, Fort Wayne, IN
   year: 2008
-  awards:
-    - award: Computer Networking
-    - award: Computer Repair
- # summary: You can choose to have either a single or multiple awards
+  summary: Gained practical experience in computer networking -- including servers, routers, switches, wiring -- as well as database applications and the Microsoft Active Directory environment.
 
 - degree: High School Diploma
   uni: Wayne High School, Fort Wayne, IN
   year: 2004
 
-- degree: Certificate, Computer Networking &bull; 2004<br />Certificate, Computer Repair &bull; 2004
+- degree: Certificate of Achievement
   uni: Anthis Career Center, Fort Wayne, IN
-#  year: 2004
-#- degree: Certificate, Computer Repair
-#  year: 2003
+  year: 2003, 2004
+    - award: Cisco Computer Networking
+    - award: A+ Computer Repair
