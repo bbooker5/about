@@ -1,6 +1,6 @@
 # Site settings
-title: "Ben Booker, Web Specialist"
-description: "Resume for Ben Booker, Web Specialist"
+title: "Ben Booker, D2C Ecommerce Specialist"
+description: "Resume for Ben Booker, D2C Ecommerce Specialist"
 
 # Build settings
 markdown: kramdown
@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Ben Booker"
-resume_title: "Web Specialist"
+resume_title: "D2C Ecommerce Specialist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "bbooker5@gmail.com"
+resume_contact_email: "ben@bookermarketing.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: "865-221-6154"
 resume_contact_address: "Oak Ridge, TN"
 
-resume_header_contact_info: "Oak Ridge, Tennessee • 865-221-6154 • bbooker5@gmail.com"
+resume_header_contact_info: "Oak Ridge, Tennessee • 865-221-6154 • ben@bookermarketing.com"
 display_header_contact_info: "false"
 
 resume_header_intro: "<p style='text-align: center;color:#999999;'>Digital Marketing  |  Information Technology</p><p>I have a passion for responsive web design, whether viewing on desktops, mobile devices, or tablets. I am proficient in hardware and software troubleshooting, computer networking, and enjoy satisfying customers by providing excellent service and experience.</p><!--I specialize in creating responsive and meaningful web content. With a background in customer service and information technology, I seek out opportunities to enhance and amplify subject matter so that it creates a positive online experience for the visitor.-->"
